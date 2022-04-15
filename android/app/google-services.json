@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723133673220",
+    "firebase_url": "https://asma-esp-default-rtdb.firebaseio.com",
+    "project_id": "asma-esp",
+    "storage_bucket": "asma-esp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723133673220:android:e078b19ac3ccb42623ea51",
+        "android_client_info": {
+          "package_name": "com.example.asma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723133673220-lfboglrfct6rv98bvp0jbprnr3qf4mt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asma",
+            "certificate_hash": "434f12d0d6320ec33ca7a224b23c8d73712d9ae4"
+          }
+        },
+        {
+          "client_id": "723133673220-ciu08jhoh9olng0hf0l2nr5dne0ja514.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0F71NUU8KyyXS87rGZgr4JWNgVmZJZdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723133673220-ciu08jhoh9olng0hf0l2nr5dne0ja514.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
